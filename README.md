@@ -1,4 +1,4 @@
-# 02-bd-ecommerce-inserts.sql
+# Bd ecommerce inserts
 
 USE ecommerce;
 
